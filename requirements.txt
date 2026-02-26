@@ -8,3 +8,5 @@ python-dotenv
 ## 1 MORE TEST
 ## 2 MORE TESTTTTTSSS
 ## ANOTHER ONEEEEEE
+## HOW MANY TESTS DO YOU WANTTTTTT <- copilot entry rofl
+## should be the final one, for note: this is a test for seeing if EZDeploy can actually go from hosted project -> update
