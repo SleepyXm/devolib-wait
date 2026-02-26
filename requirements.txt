@@ -3,3 +3,4 @@ resend
 uvicorn
 databases
 pytest
+python-dotenv
